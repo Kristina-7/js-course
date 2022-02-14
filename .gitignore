@@ -1,4 +1,5 @@
-frst-js/package-lock.json
-frst-js/gulpfile.js
-frst-js/node_modules
-frst-js/package.json
+package-lock.json
+gulpfile.js
+package.json
+node_modules
+.csscomb.json
